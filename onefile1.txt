@@ -8,3 +8,5 @@ only clean the temporary.
 2016.11.1  16：41
 now i create a new branch dev.
 
+2016.11.1  18:20
+now ,i am in branch master,warning my branch is ahead by 1 commit
