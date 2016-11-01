@@ -5,3 +5,6 @@ now i am going to add this change to 暂存区
 2\now i am going to make another change before commit.And then reset HEAD -- <file>
 3\now i know that when using reset HEAD -- <file>,directory does not change ,it 
 only clean the temporary.
+2016.11.1  16：41
+now i create a new branch dev.
+
