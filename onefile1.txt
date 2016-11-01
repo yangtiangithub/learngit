@@ -1,5 +1,7 @@
 1、onefile 2016.11.1
 2\git tracks change.
 now i am going to add this change to 暂存区
-now i get this first change and add to temporary
-now i am going to make another change before commit.And then reset HEAD --<file>
+1\now i get this first change and add to temporary
+2\now i am going to make another change before commit.And then reset HEAD -- <file>
+3\now i know that when using reset HEAD -- <file>,directory does not change ,it 
+only clean the temporary.
