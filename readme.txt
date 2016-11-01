@@ -6,3 +6,4 @@ txt file on oct 31th,2016.
 now 改变
 2、change
 3a、change（2016.11.1）
+4a、now i change file in directory
